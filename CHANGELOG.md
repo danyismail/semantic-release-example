@@ -3,6 +3,13 @@
 
 ### Features
 
+* **user:** add token 2 ([33113fd](https://github.com/danyismail/semantic-release-example/commit/33113fd7edfa0a9754fa464f04ba4ea09d615ea2))
+
+# [1.3.0](https://github.com/danyismail/semantic-release-example/compare/v1.2.0...v1.3.0) (2025-05-16)
+
+
+### Features
+
 * **user:** add npmrc ([4ac7736](https://github.com/danyismail/semantic-release-example/commit/4ac773649accd63bf10d351a59176a97b4ed6933))
 * **user:** add token 2 ([33113fd](https://github.com/danyismail/semantic-release-example/commit/33113fd7edfa0a9754fa464f04ba4ea09d615ea2))
 
