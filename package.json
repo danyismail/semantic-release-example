@@ -1,5 +1,5 @@
 {
-    "name": "semantic-release-example",
+    "name": "@danyismail/semantic-release-example",
     "version": "1.5.0",
     "description": "Belajar auto versioning pakai semantic-release",
     "main": "src/index.js",
