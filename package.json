@@ -1,0 +1,15 @@
+{
+    "name": "semantic-release-example",
+    "version": "0.0.0-development",
+    "description": "Belajar auto versioning pakai semantic-release",
+    "main": "src/index.js",
+    "scripts": {
+        "release": "semantic-release"
+    },
+    "devDependencies": {
+        "@semantic-release/changelog": "^6.0.1",
+        "@semantic-release/git": "^10.0.1",
+        "@semantic-release/npm": "^11.0.1",
+        "semantic-release": "^23.0.0"
+    }
+}
