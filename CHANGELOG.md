@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/danyismail/semantic-release-example/compare/v1.3.0...v1.4.0) (2025-05-16)
+
+
+### Features
+
+* **user:** add token 3 ([cd26890](https://github.com/danyismail/semantic-release-example/commit/cd268900ea9e1ab4c58b8e4e803683c4a0f2aa4c))
+
 # [1.3.0](https://github.com/danyismail/semantic-release-example/compare/v1.2.0...v1.3.0) (2025-05-16)
 
 
