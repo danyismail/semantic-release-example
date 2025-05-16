@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/danyismail/semantic-release-example/compare/v1.1.0...v1.2.0) (2025-05-16)
+
+
+### Features
+
+* **user:** add token ([a1db6a9](https://github.com/danyismail/semantic-release-example/commit/a1db6a9ad9a273e858e87b452904614960f6a560))
+
 # [1.1.0](https://github.com/danyismail/semantic-release-example/compare/v1.0.0...v1.1.0) (2025-05-16)
 
 
