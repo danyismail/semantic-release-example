@@ -1,3 +1,10 @@
+## [1.9.2](https://github.com/danyismail/semantic-release-example/compare/v1.9.1...v1.9.2) (2025-05-16)
+
+
+### Bug Fixes
+
+* **user:** test commit 2 ([2f0f160](https://github.com/danyismail/semantic-release-example/commit/2f0f160129c37f31946a57e577c9540c4a7eabd3))
+
 ## [1.9.1](https://github.com/danyismail/semantic-release-example/compare/v1.9.0...v1.9.1) (2025-05-16)
 
 
