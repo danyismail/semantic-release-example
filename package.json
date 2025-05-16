@@ -1,5 +1,8 @@
 {
     "name": "@danyismail/semantic-release-example",
+    "publishConfig": {
+        "access": "public"
+    },
     "version": "1.7.0",
     "description": "Belajar auto versioning pakai semantic-release",
     "main": "src/index.js",
