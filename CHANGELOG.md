@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/danyismail/semantic-release-example/compare/v1.5.0...v1.6.0) (2025-05-16)
+
+
+### Features
+
+* **user:** change name ([734c284](https://github.com/danyismail/semantic-release-example/commit/734c284def50da018d122649230c6bfd62ca351f))
+
 # [1.5.0](https://github.com/danyismail/semantic-release-example/compare/v1.4.0...v1.5.0) (2025-05-16)
 
 
