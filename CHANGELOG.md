@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/danyismail/semantic-release-example/compare/v1.7.0...v1.8.0) (2025-05-16)
+
+
+### Features
+
+* **user:** change cfg2 ([0f23836](https://github.com/danyismail/semantic-release-example/commit/0f23836e7b95d5a0b6e521134e588721bddc8d39))
+
 # [1.7.0](https://github.com/danyismail/semantic-release-example/compare/v1.6.0...v1.7.0) (2025-05-16)
 
 
