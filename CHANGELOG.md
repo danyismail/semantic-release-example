@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/danyismail/semantic-release-example/compare/v1.4.0...v1.5.0) (2025-05-16)
+
+
+### Features
+
+* **user:** add release config ([d8f1b9d](https://github.com/danyismail/semantic-release-example/commit/d8f1b9d75f0699e008181a25922386c8a23c488f))
+
 # [1.4.0](https://github.com/danyismail/semantic-release-example/compare/v1.3.0...v1.4.0) (2025-05-16)
 
 
