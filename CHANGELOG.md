@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/danyismail/semantic-release-example/compare/v1.0.0...v1.1.0) (2025-05-16)
+
+
+### Features
+
+* **user:** add console log ([c5e707d](https://github.com/danyismail/semantic-release-example/commit/c5e707dffedb395e8ba949807041b7b794a117e8))
+
 # 1.0.0 (2025-05-16)
 
 
